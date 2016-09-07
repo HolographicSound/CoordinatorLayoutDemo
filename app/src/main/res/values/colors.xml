@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题栏的颜色 -->
+    <color name="colorPrimary">#3F51B5</color>
+    <!-- 状态栏的颜色 -->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!-- RadioButton、EditText、ToggleButton、Seekbar 等颜色 -->
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="transparent">#00000000</color>
+</resources>

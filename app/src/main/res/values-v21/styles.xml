@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar2">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme.NoActionBar2">
+        <!-- 这句代码使状态栏变为物色  沉浸式设计 android:fitsSystemWindows="true"-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
